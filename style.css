@@ -1,0 +1,11 @@
+body{
+    color:blueviolet
+}
+header{
+    color: pink
+}
+#img2{
+    height: 300px;
+    width: 200px;
+    float: center;
+}
